@@ -1,5 +1,5 @@
 # appCuisine
-I think I will need 6-8 hours, I will do it with non-stops. I will push here with a "Asier" name, not as "master". So I guess all the commits-pushes will be inside "branches"
+I think I will need 6-8 hours, I will do it with non-stops. I will push here with a "Asier" name, not as "master". So I guess all the commits-pushes will be inside "branch"
 
 Notes:
 - The other test app I did for other company (I sent you the apk) I was saving the data, I am not going to save it in this app. It would be easier for me, but I think you don´t want that this app save the data.
